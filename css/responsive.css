@@ -1,10 +1,10 @@
-@media (min-width: 768px) and (max-width: 992px) {
+@media (min-width: 768px) and (max-width: 999px) {
     .servicos-box {
-     flex-direction: row;
+        flex-direction:  row;
     }
 }
 
-@media (min-width: 992) {
+@media (min-width: 1000) {
     body {
         height: 100vh;
         
